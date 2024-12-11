@@ -19,5 +19,16 @@ To make and run this project, we have used:
 <img width="363" alt="image" src="https://github.com/Nadi-aa/Quantum-Neural-Network/assets/75956209/f1b7ba10-f89e-4a6f-ad41-9b4b37f751e1">
 
 
+## Citation
 
-< Feel free to reach out with any queries on the model > 
+Quantum Computing, Communication, and Simulation IV
+2024-03-13 | Book chapter
+DOI: 10.1117/12.3010006
+Contributors: Nadia Ahmed Sharna; Emamul Islam
+
+URL
+http://dx.doi.org/10.1117/12.3010006
+
+Citation (formatted-apa)
+
+Sharna, N. A., & Islam, E. (2024). Quantum machine learning approach for classification: Case studies and implications. In Quantum Computing, Communication, and Simulation IV (Proc. SPIE 12911, 129110I). https://doi.org/10.1117/12.3010006
